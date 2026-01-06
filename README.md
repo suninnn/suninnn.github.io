@@ -11,9 +11,7 @@ This repository hosts my personal homepage built with GitHub Pages and Jekyll.
 
 ## About
 
-I am a master's student at UCLA focusing on machine learning and applied data science in healthcare.
-My work centers on building and evaluating predictive models on real-world clinical data, including
-time-series forecasting, reproducible ML pipelines, and model benchmarking.
+I am a master’s student in Data Science in Health at UCLA, graduating in 2027, with a strong focus on machine learning and applied data science for healthcare. My work centers on building and evaluating predictive models on real-world clinical data, including time-series forecasting, EHR analysis, and rigorous model benchmarking. I am particularly interested in reproducible ML pipelines and translating statistical methods into robust, practical machine learning systems. I work primarily with Python, R, and SQL, and enjoy tackling problems at the intersection of machine learning, healthcare data, and real-world deployment.
 
 ---
 
