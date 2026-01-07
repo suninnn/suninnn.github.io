@@ -1,16 +1,17 @@
 # main links links
+
 main:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Research Experiences"
-    url: "/#-invited-talks"
+    url: "/#research-experiences"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
