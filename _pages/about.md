@@ -33,17 +33,34 @@ Xie, M., Zhao, S., & Lv, K. (2024).
 [https://doi.org/10.3390/en17112521](https://doi.org/10.3390/en17112521)
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2025.09 – 2027.06 (Expected)*  
+  **Master of Data Science in Health (MDSH)**, Department of Biostatistics  
+  UCLA Fielding School of Public Health  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experience
+
+**Research Assistant**  
+*UCLA Fielding School of Public Health* · Part-time  
+Jul 2025 – Present · Los Angeles, CA, USA  
+
+---
+
+# 💼 Internships
+
+**Primary Intelligence Intern**  
+*IQVIA* · Internship  
+Mar 2025 – Jul 2025 · Shanghai, China  
+
+**Strategy & Transactions Consulting Intern (Valuation, Modeling & Economics)**  
+*EY* · Internship  
+Aug 2024 – Sep 2024 · China  
+
+**Investment Banking Intern**  
+*Haitong Securities* · Internship  
+Jan 2024 – Mar 2024 · China  
+
+
