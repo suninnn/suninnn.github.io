@@ -35,11 +35,11 @@ Xie, M., Zhao, S., & Lv, K. (2024).
 
 
 # 📖 Education
-- *2025.09 – 2027.06 (Expected)*  
+- *Mar 2025 – Jul 2025 (Expected)*  
   **Master of Data Science in Health (MDSH)**, Department of Biostatistics  
   Fielding School of Public Health, UCLA 
 
-- *2021.09 – 2025.06*  
+- *Sep 2021 – Jun 2025*  
   **Bachelor of Management (Accounting, CPA Canada Track)**  
   Business School, Ningbo University
 ---
@@ -60,10 +60,10 @@ Mar 2025 – Jul 2025 · Shanghai, China
 
 **Strategy & Transactions Consulting Intern (Valuation, Modeling & Economics)**  
 *EY* · Internship  
-Aug 2024 – Sep 2024 · China  
+Aug 2024 – Sep 2024 · Ningbo, China  
 
 **Investment Banking Intern**  
 *Haitong Securities* · Internship  
-Jan 2024 – Mar 2024 · China  
+Jan 2024 – Mar 2024 · Shanghai, China  
 
 
