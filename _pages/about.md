@@ -37,7 +37,7 @@ Xie, M., Zhao, S., & Lv, K. (2024).
 # 📖 Education
 - *2025.09 – 2027.06 (Expected)*  
   **Master of Data Science in Health (MDSH)**, Department of Biostatistics  
-  UCLA Fielding School of Public Health  
+  Fielding School of Public Health, UCLA 
 
 - *2021.09 – 2025.06*  
   **Bachelor of Management (Accounting, CPA Canada Track)**  
